@@ -1,23 +1,12 @@
 {
-  "name": "object-url",
-  "repo": "component/object-url",
+  "name": "component-object-url",
   "description": "X-Browser object url support",
   "version": "1.0.0",
   "keywords": [
     "url",
     "utility"
   ],
-  "dependencies": {},
-  "development": {},
-  "license": "MIT",
   "main": "index.js",
-  "component": {
-    "scripts": {
-      "object-url/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/object-url.git"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
